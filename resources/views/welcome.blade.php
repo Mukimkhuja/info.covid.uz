@@ -82,7 +82,9 @@
             @endif
 
             <div class="content">
-                <marquee>Uyda qoling! | Stay at home! | Оставайтесь дома! | Уйда қолинг!</marquee>
+                <marquee>
+                    <div style="color: red"> Uyda qoling! | Stay at home! | Оставайтесь дома! | Уйда қолинг!</div>
+                </marquee>
                 <div class="title m-b-md">
                     Коронавирус (Covid19)
                 </div>

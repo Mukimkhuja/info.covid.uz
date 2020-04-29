@@ -17,9 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
 
-Route::post('/home', function () {
-    return Request::all(); // Возвращаем все данные из формы
-})->name('home-form');
+Route::post('/home', 'HomeController@submit')->name('home-form');
 
 Route::get('/show', function () {
     return view('show');

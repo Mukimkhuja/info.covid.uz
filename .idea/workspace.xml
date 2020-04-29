@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f07add85-d9ad-4c3a-8347-4f7cb4df6438" name="Default Changelist" comment="" />
+    <list default="true" id="f07add85-d9ad-4c3a-8347-4f7cb4df6438" name="Default Changelist" comment="refresh my project, version v2">
+      <change afterPath="$PROJECT_DIR$/app/Http/Requests/HomeRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +25,7 @@
     <favorites_list name="info.covid.uz" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/information2020" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -118,18 +126,21 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1aoTeVwHUvVtShE0IX2nysDAeBL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../git" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -166,14 +177,26 @@
       <workItem from="1588010240467" duration="601000" />
       <workItem from="1588074569520" duration="1775000" />
       <workItem from="1588076476899" duration="130000" />
-      <workItem from="1588077519036" duration="10460000" />
+      <workItem from="1588077519036" duration="18081000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/information2020" />
+    </ignored-roots>
+    <MESSAGE value="refresh my project, version v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="refresh my project, version v2" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="345" y="24" key="CommitChangelistDialog2" timestamp="1588190823575">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="345" y="24" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1588190823575" />
     <state x="500" y="184" key="FileChooserDialogImpl" timestamp="1588169470927">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -194,25 +217,29 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587582221541" />
-    <state x="221" y="72" key="SettingsEditor" timestamp="1588076575503">
+    <state x="221" y="72" key="SettingsEditor" timestamp="1588180225154">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1588076575503" />
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1588169275563">
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1588180225154" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1588190887810">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1588169275563" />
-    <state x="416" y="35" width="607" height="789" key="find.popup" timestamp="1588088421326">
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1588190887810" />
+    <state x="416" y="35" width="607" height="789" key="find.popup" timestamp="1588181908378">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="416" y="35" width="607" height="789" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1588088421326" />
+    <state x="416" y="35" width="607" height="789" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1588181908378" />
     <state x="426" y="221" key="git4idea.merge.GitMergeDialog" timestamp="1588169253359">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="426" y="221" key="git4idea.merge.GitMergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1588169253359" />
-    <state x="418" y="221" key="git4idea.merge.GitPullDialog" timestamp="1588169264383">
+    <state x="418" y="221" key="git4idea.merge.GitPullDialog" timestamp="1588190921902">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="418" y="221" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1588169264383" />
+    <state x="418" y="221" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1588190921902" />
+    <state x="361" y="156" width="700" height="530" key="recent.locations.popup" timestamp="1588189766563">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="361" y="156" width="700" height="530" key="recent.locations.popup/0.0.1440.860@0.0.1440.860" timestamp="1588189766563" />
   </component>
 </project>
